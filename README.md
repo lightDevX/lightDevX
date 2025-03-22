@@ -14,10 +14,9 @@
 <div align="center">
  
 ## Hey there 👋
-<p>Hi, I'm Hasan U Khan! 🚀 A full-stack developer passionate about building scalable web applications with Next.js, React, Express, MongoDB, Mongoose, Python, and Django.
-
+<p>
+Hi, I'm Hasan U Khan! 🚀 A full-stack developer passionate about building scalable web applications with Next.js, React, Express, MongoDB, Mongoose, Python, and Django.
 My journey in web development started in 2015 while studying Computer Science & Engineering (CSE). Since then, I’ve been continuously sharpening my skills, exploring new technologies, and delivering high-quality websites for clients.
-
 I specialize in writing clean, maintainable code and building reusable components, ensuring seamless scalability and easy future updates. </p>
 
 </div>
