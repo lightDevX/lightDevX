@@ -22,5 +22,7 @@ I specialize in writing clean, maintainable code and building reusable component
 I'm a passionate **Full-Stack Developer** who thrives on building scalable, high-performance applications and solving complex problems with modern technologies.
 
 -🚀 **Always Evolving** – Continuously exploring new tools, frameworks, and best practices to stay ahead in the ever-changing tech landscape.
+
 -💻 **Open-Source Contributor** – Actively engaging with the developer community and contributing to meaningful projects.
+
 -⚡ **Tech Stack** – Skilled in **React, Next.js, Node.js, Python, and Django**, with a commitment to expanding my expertise.
