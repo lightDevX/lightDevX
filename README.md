@@ -2,7 +2,7 @@
 
 ![Alt Text](images/banner.jpg)
 
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 1.5rem;">
+<div align="center" style="display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 1.5rem;">
   <a 
     href="https://www.linkedin.com/in/hukhansr" 
     style="
@@ -46,6 +46,7 @@
  <img src="./images/gmailIcon.png" style="height: 100%; width: 100%; object-fit: cover;"/>
 </span>
     <span>khan.m.hasanuzzaman@gmail.com</span>
-
 </a>
 </div>
+
+<div align="center">
