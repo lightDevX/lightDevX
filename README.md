@@ -33,10 +33,10 @@ I'm a passionate **Full-Stack Developer** who thrives on building scalable, high
 
 ---
 
-### Connect with me:
+### Connect with me
 
 [![website](https://img.icons8.com/fluency/48/facebook-new.png)](https://www.facebook.com/maohib)
-[![website](https://icons8.com/icon/13930/linkedin)](https://www.linkedin.com/in/hukhansr/)
+[![website](https://img.icons8.com/?size=100&id=13930&format=png&color=000000)](https://www.linkedin.com/in/hukhansr/)
 [![website](https://img.icons8.com/color/48/twitterx--v1.png)](https://x.com/hukhansr)
 
 ---
