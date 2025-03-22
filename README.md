@@ -26,3 +26,19 @@ I'm a passionate **Full-Stack Developer** who thrives on building scalable, high
 -💻 **Open-Source Contributor** – Actively engaging with the developer community and contributing to meaningful projects.
 
 -⚡ **Tech Stack** – Skilled in **React, Next.js, Node.js, Python, and Django**, with a commitment to expanding my expertise.
+
+## ⚔️ Skills & Expertise
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,javascript,react,nextjs,nodejs,express,mongodb,py,django,anaconda,github,figma,firebase,bash,linux,mac,aws,postman)](https://skillicons.dev)
+
+---
+
+### Connect with me:
+
+[![website](https://img.icons8.com/fluency/48/facebook-new.png)](https://www.facebook.com/maohib)
+[![website](https://icons8.com/icon/13930/linkedin)](https://www.linkedin.com/in/hukhansr/)
+[![website](https://img.icons8.com/color/48/twitterx--v1.png)](https://x.com/hukhansr)
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=merndevreza&layout=compact)
