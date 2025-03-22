@@ -29,7 +29,7 @@ I'm a passionate **Full-Stack Developer** who thrives on building scalable, high
 
 ## ⚔️ Skills & Expertise
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,javascript,react,nextjs,nodejs,express,mongodb,py,django,anaconda,github,figma,firebase,bash,linux,mac,aws,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,javascript,react,nextjs,nodejs,express,mongodb,py,django,anaconda,github,figma,firebase,bash,linux,aws,postman)](https://skillicons.dev)
 
 ---
 
@@ -41,4 +41,4 @@ I'm a passionate **Full-Stack Developer** who thrives on building scalable, high
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=merndevreza&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lightdevx&layout=compact)
