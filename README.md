@@ -7,7 +7,7 @@
     <img src="./images/linkedinIcon.jpg" />
   </a>
   <a href="mailto:khan.m.hasanuzzaman@gmail.com">
-    <img src="./images/link-4.png" />
+    <img src="./images/gmailIcon.jpg" />
   </a>
 </p>
 
