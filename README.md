@@ -41,4 +41,4 @@ I'm a passionate **Full-Stack Developer** who thrives on building scalable, high
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lightdevx&layout=compact)
+
